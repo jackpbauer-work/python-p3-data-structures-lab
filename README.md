@@ -1,3 +1,9 @@
+1. pipenv install
+2. python shell
+3. pytest and pytest -x (both versions)
+
+
+
 # Data Structures Lab
 
 ## Learning Goals
